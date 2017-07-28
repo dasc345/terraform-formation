@@ -1,0 +1,18 @@
+stages:
+  - validate
+
+image: 369560478553.dkr.ecr.eu-west-1.amazonaws.com/terraform:0.8
+
+variables:
+  ACCOUNT_ID: "848510910118"
+  http_proxy: http://10.1.71.103:3128
+  https_proxy: http://10.1.71.103:3128
+
+Terraform Validate:
+  stage: validate
+  tags:
+    - terraform
+  script:
+      - echo "Using $AWS_DEFAULT_REGION.plan"
+      - echo "Region $AWS_DEFAULT_REGION"
+      - terraform-vault validate

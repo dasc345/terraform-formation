@@ -1,0 +1,5 @@
+export AWS_PROFILE=myenterprise
+export AWS_DEFAULT_REGION=eu-central-1
+export ACCOUNT_ID=258307565614
+
+export VAULT_ADDR=https://vault.oxalide.net

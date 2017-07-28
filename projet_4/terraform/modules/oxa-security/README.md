@@ -1,0 +1,1 @@
+Ce module ajoute les comptes OxalideReadOnly & OxalideMonitoring, et active CloudTrail

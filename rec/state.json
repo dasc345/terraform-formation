@@ -1,0 +1,2510 @@
+{
+  "version": 1,
+  "width": 176,
+  "height": 43,
+  "duration": 434.218873,
+  "command": null,
+  "title": null,
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/usr/bin/zsh"
+  },
+  "stdout": [
+    [
+      1.109235,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      3.7e-05,
+      "\u001b]2;jboulanger@jbo-laptop: ~/Documents/PROJETS/terraform-formation\u0007\u001b]1;..orm-formation\u0007"
+    ],
+    [
+      0.06995,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n \u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mjboulanger@jbo-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/PROJETS/terraform-formation \u001b[43m\u001b[34m \u001b[30mmaster ✚ ? \u001b[49m\u001b[33m\u001b[39m \r\n>\u001b[K\u001b[151C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10008 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:47:19 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[174D"
+    ],
+    [
+      2.7e-05,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      1.478087,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[14D"
+    ],
+    [
+      0.2051,
+      "asciinema rec re\u001b[4mc\u001b[24m/state.json\u001b[1B\u001b[15Dc_\u001b[A\u001b[1C"
+    ],
+    [
+      0.168699,
+      "\u001b[16D\u001b[4mc\u001b[4md\u001b[24m projet_2/terr\u001b[24maform       \u001b[1B\u001b[14Dd_\u001b[A\u001b[16D"
+    ],
+    [
+      0.560802,
+      "\u001b[24mc\u001b[24md\u001b[1B\r\u001b[K\u001b[A\u001b[1C"
+    ],
+    [
+      7.1e-05,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000141,
+      "\u001b[?2004l\u001b[1B\r"
+    ],
+    [
+      0.002465,
+      "\u001b]2;cd projet_2/terraform\u0007\u001b]1;cd\u0007"
+    ],
+    [
+      0.063286,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      3.5e-05,
+      "\u001b]2;jboulanger@jbo-laptop: ~/Documents/PROJETS/terraform-formation/projet_2/terraform\u0007\u001b]1;..t_2/terraform\u0007"
+    ],
+    [
+      0.05245,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n \u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mjboulanger@jbo-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/PROJETS/terraform-formation/projet_2/terraform \u001b[43m\u001b[34m \u001b[30mmaster ✚ ? \u001b[49m\u001b[33m\u001b[39m \r\n>\u001b[K\u001b[151C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10009 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:47:21 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[174D\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      2.041148,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[14D"
+    ],
+    [
+      1.270946,
+      "asciinema rec rec/state.j\u001b[4ms\u001b[24mon\u001b[1B\u001b[15Ds_\u001b[A\u001b[10C"
+    ],
+    [
+      0.770664,
+      "\b\b\b\b\b\b\b\u001b[4ms\u001b[4mt\u001b[24m\u001b[5C\u001b[24ms\u001b[1B\u001b[12Dt_\u001b[A\u001b[2C"
+    ],
+    [
+      1.150585,
+      "\u001b[1C\u001b[4mt\u001b[4ma\u001b[24m\u001b[1B\b\b\b\b\b\ba_\u001b[A\u001b[1C"
+    ],
+    [
+      0.224301,
+      "\u001b[2C\u001b[4ma\u001b[4mt\u001b[24m\u001b[1B\b\b\b\b\b\bt_\u001b[A"
+    ],
+    [
+      0.108907,
+      "\u001b[3C\u001b[4mt\u001b[4me\u001b[24m\u001b[1B\b\b\b\b\b\be_\u001b[A\b"
+    ],
+    [
+      1.3477,
+      "\u001b[8Dplay rec\u001b[24m/\u001b[4ms\u001b[4mt\u001b[4ma\u001b[4mt\u001b[4me\u001b[24m.json\u001b[10D"
+    ],
+    [
+      1.651303,
+      "\u001b[19Dterraform \u001b[4ms\u001b[4mt\u001b[4ma\u001b[4mt\u001b[4me\u001b[24m lis\u001b[24mt\u001b[24m \u001b[24m \u001b[24m \u001b[24m      \u001b[19D"
+    ],
+    [
+      0.694824,
+      "\u001b[24ms\u001b[24mt\u001b[24ma\u001b[24mt\u001b[24me\u001b[1B\r\u001b[K\u001b[A\u001b[11C"
+    ],
+    [
+      0.00025,
+      "\u001b[?1l\u001b>\u001b[?2004l\u001b[1B\r"
+    ],
+    [
+      0.000882,
+      "\u001b]2;terraform state list\u0007\u001b]1;terraform\u0007"
+    ],
+    [
+      0.1838,
+      "aws_ami.debian_ami\r\n"
+    ],
+    [
+      3.1e-05,
+      "aws_availability_zones.all\r\naws_eip.eip\r\n"
+    ],
+    [
+      1.4e-05,
+      "aws_eip_association.eip_association\r\n"
+    ],
+    [
+      6.4e-05,
+      "aws_iam_instance_profile.terraform_profile\r\n"
+    ],
+    [
+      3.6e-05,
+      "aws_iam_policy.terraform_create_policy\r\n"
+    ],
+    [
+      3.9e-05,
+      "aws_iam_policy.terraform_delete_policy\r\n"
+    ],
+    [
+      4.5e-05,
+      "aws_iam_policy.terraform_read_policy\r\n"
+    ],
+    [
+      0.00022,
+      "aws_iam_policy_document.terraform_create_policy\r\n"
+    ],
+    [
+      6.2e-05,
+      "aws_iam_policy_document.terraform_delete_policy\r\n"
+    ],
+    [
+      4.4e-05,
+      "aws_iam_policy_document.terraform_read_policy\r\n"
+    ],
+    [
+      1.6e-05,
+      "aws_iam_role.role\r\n"
+    ],
+    [
+      7.5e-05,
+      "aws_iam_role_policy_attachment.terraform_create_policy-attach\r\n"
+    ],
+    [
+      5.4e-05,
+      "aws_iam_role_policy_attachment.terraform_delete_policy-attach\r\n"
+    ],
+    [
+      6.2e-05,
+      "aws_iam_role_policy_attachment.terraform_read_policy-attach\r\n"
+    ],
+    [
+      4.9e-05,
+      "aws_instance.terraform\r\naws_key_pair.deployer\r\n"
+    ],
+    [
+      2.8e-05,
+      "aws_route_table.main\r\n"
+    ],
+    [
+      3.1e-05,
+      "aws_route_table_association.main\r\n"
+    ],
+    [
+      2.8e-05,
+      "aws_security_group.az\r\n"
+    ],
+    [
+      8.8e-05,
+      "aws_subnet.subnet_pub\r\n"
+    ],
+    [
+      1.1e-05,
+      "aws_vpc.main\r\n"
+    ],
+    [
+      0.00207,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      6.9e-05,
+      "\u001b]2;jboulanger@jbo-laptop: ~/Documents/PROJETS/terraform-formation/projet_2/terraform\u0007"
+    ],
+    [
+      1.2e-05,
+      "\u001b]1;..t_2/terraform\u0007"
+    ],
+    [
+      0.079836,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n \u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mjboulanger@jbo-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/PROJETS/terraform-formation/projet_2/terraform \u001b[43m\u001b[34m \u001b[30mmaster ✚ ? \u001b[49m\u001b[33m\u001b[39m \r\n>\u001b[K\u001b[151C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10010 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:47:31 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[174D"
+    ],
+    [
+      2e-05,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      7.375566,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[14D"
+    ],
+    [
+      0.642184,
+      "terraform taint \u001b[4maws_instance.terraform\u001b[24m\u001b[1B\u001b[25Daws_instance.terraform_\u001b[A\u001b[20D"
+    ],
+    [
+      2.683069,
+      "\u001b[24ma\u001b[24mw\u001b[24ms\u001b[24m_\u001b[24mi\u001b[24mn\u001b[24ms\u001b[24mt\u001b[24ma\u001b[24mn\u001b[24mc\u001b[24me\u001b[24m.\u001b[24mt\u001b[24me\u001b[24mr\u001b[24mr\u001b[24ma\u001b[24mf\u001b[24mo\u001b[24mr\u001b[24mm\u001b[1B\r\u001b[K\u001b[A\u001b[17C"
+    ],
+    [
+      7.5e-05,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000126,
+      "\u001b[?2004l\u001b[1B\r"
+    ],
+    [
+      0.00202,
+      "\u001b]2;terraform taint aws_instance.terraform\u0007\u001b]1;terraform\u0007"
+    ],
+    [
+      0.173715,
+      "The resource aws_instance.terraform in the module root has been marked as tainted!\r\n"
+    ],
+    [
+      0.004073,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000214,
+      "\u001b]2;jboulanger@jbo-laptop: ~/Documents/PROJETS/terraform-formation/projet_2/terraform\u0007\u001b]1;..t_2/terraform\u0007"
+    ],
+    [
+      0.099903,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n \u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mjboulanger@jbo-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/PROJETS/terraform-formation/projet_2/terraform \u001b[43m\u001b[34m \u001b[30mmaster ✚ ? \u001b[49m\u001b[33m\u001b[39m \r\n>\u001b[K\u001b[151C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10011 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:47:42 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[174D"
+    ],
+    [
+      2.3e-05,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      2.190653,
+      "\r\r\nbck-i-search: _\u001b[K\u001b[A\u001b[14D"
+    ],
+    [
+      0.673035,
+      "cd \u001b[4mp\u001b[24mrojet_2/terraform\u001b[1B\u001b[8Dp_\u001b[A\u001b[12D"
+    ],
+    [
+      0.155697,
+      "\b\b\bsud\u001b[24mo \u001b[4mp\u001b[4ma\u001b[24mcman -S asciinema\u001b[1B\u001b[10Da_\u001b[A\u001b[11D"
+    ],
+    [
+      0.029502,
+      "\b\b\b\b\bech\u001b[2C\u001b[24m-\u001b[24me \"{\\n  \\\"Version\\\" : \\\"2008-10-17\\\",\\n  \\\"Statement\\\" : [ {\\n    \\\"Sid\\\" : \\\"AllowPull\\\",\\n    \\\"Effect\\\" : \\\"Allow\\\",\\n    \\\"Princi\u001b[4mpal\u001b[24m\\\" : {\\n      \\\"AWS\\\" : \\\"arn:aws:iam::369560478553:user/gitlab-runner\\\"\\n    },\\n    \\\"Action\\\" : [ \\\"ecr:GetDownloadUrlForLayer\\\", \\\"ecr:BatchGetImage\\\", \\\"ecr:BatchCheckLayerAvailability\\\", \\\"ecr:PutImage\\\", \\\"ecr:InitiateLayerUpload\\\", \\\"ecr:UploadLayerPart\\\", \\\"ecr:CompleteLayerUpload\\\" ]\\n  } ]\\n}\"\u001b[K\r\r\nbck-i-search: pal_\u001b[K\u001b[3A\u001b[122C"
+    ],
+    [
+      0.262884,
+      "\u0007"
+    ],
+    [
+      0.000183,
+      "\u001b[24mp\u001b[24ma\u001b[24ml\u001b[3B\rfailing bck-i-search: paln_\u001b[3A\u001b[113C"
+    ],
+    [
+      1.084517,
+      "\u001b[4mp\u001b[4ma\u001b[4ml\u001b[24m\u001b[3B\r\u001b[8P\u001b[17C_         \u001b[3A\u001b[113C"
+    ],
+    [
+      0.151951,
+      "\u001b[139Dsud\u001b[2C\u001b[4mp\u001b[4ma\u001b[24mcman -S asciinema\u001b[K\u001b[127C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10011 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:47:42 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[1B\rbck-i-search: pa_\u001b[K\u001b[1B\r\u001b[K\u001b[1B\u001b[K\u001b[3A\u001b[6C"
+    ],
+    [
+      0.147659,
+      "\b\b\b\b\bcd \u001b[4mp\u001b[24mr\u001b[24mo\u001b[24mjet_2/terraform   \u001b[1B\u001b[10D_ \u001b[A\u001b[13D"
+    ],
+    [
+      0.198602,
+      "\b\b\basc\u001b[24miinema \u001b[4mp\u001b[4ml\u001b[24may rec/state.json\u001b[1B\u001b[15Dl_\u001b[A\b\b\b\b\b\b"
+    ],
+    [
+      0.127578,
+      "\u001b[1C\u001b[4ml\u001b[4ma\u001b[24m\u001b[1B\u001b[2Ca_\u001b[A\b\b\b\b\b\b\b"
+    ],
+    [
+      0.135339,
+      "\u001b[10Dterraform\u001b[3C\u001b[4ma\u001b[4mn\u001b[24m               \u001b[1B\u001b[13Dn_\u001b[A\u001b[8D"
+    ],
+    [
+      1.342437,
+      "\u001b[24mp\u001b[24ml\u001b[24ma\u001b[24mn\u001b[1B\r\u001b[K\u001b[A\u001b[11C"
+    ],
+    [
+      6e-05,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000266,
+      "\u001b[?2004l\u001b[1B\r"
+    ],
+    [
+      0.001841,
+      "\u001b]2;terraform plan\u0007\u001b]1;terraform\u0007"
+    ],
+    [
+      0.242833,
+      "\u001b[0m\u001b[1mRefreshing Terraform state in-memory prior to plan...\u001b[0m\r\n"
+    ],
+    [
+      2.8e-05,
+      "The refreshed state will be used to calculate this plan, but will not be\r\n"
+    ],
+    [
+      0.00013,
+      "persisted to local or remote state storage.\r\n"
+    ],
+    [
+      7.4e-05,
+      "\u001b[0m\r\n"
+    ],
+    [
+      2.824276,
+      "\u001b[0m\u001b[1maws_key_pair.deployer: Refreshing state... (ID: deployer-key)\u001b[0m\r\n"
+    ],
+    [
+      0.000912,
+      "\u001b[0m\u001b[1maws_vpc.main: Refreshing state... (ID: vpc-057c3a6d)\u001b[0m\r\n"
+    ],
+    [
+      0.000712,
+      "\u001b[0m\u001b[1mdata.aws_availability_zones.all: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      0.003145,
+      "\u001b[0m\u001b[1maws_iam_role.role: Refreshing state... (ID: ec2-role)\u001b[0m\r\n\u001b[0m\u001b[1maws_eip.eip: Refreshing state... (ID: eipalloc-b892a0d1)\u001b[0m\r\n"
+    ],
+    [
+      0.001115,
+      "\u001b[0m\u001b[1mdata.aws_iam_policy_document.terraform_delete_policy: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      7.2e-05,
+      "\u001b[0m\u001b[1mdata.aws_ami.debian_ami: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      8.5e-05,
+      "\u001b[0m\u001b[1mdata.aws_iam_policy_document.terraform_read_policy: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      0.00105,
+      "\u001b[0m\u001b[1mdata.aws_iam_policy_document.terraform_create_policy: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      0.000968,
+      "\u001b[0m\u001b[1maws_iam_policy.terraform_delete_policy: Refreshing state... (ID: arn:aws:iam::258307565614:policy/terraform_delete_policy)\u001b[0m\r\n"
+    ],
+    [
+      0.000639,
+      "\u001b[0m\u001b[1maws_iam_policy.terraform_create_policy: Refreshing state... (ID: arn:aws:iam::258307565614:policy/terraform_create_policy)\u001b[0m\r\n"
+    ],
+    [
+      0.0022,
+      "\u001b[0m\u001b[1maws_iam_policy.terraform_read_policy: Refreshing state... (ID: arn:aws:iam::258307565614:policy/terraform_read_policy)\u001b[0m\r\n"
+    ],
+    [
+      0.441653,
+      "\u001b[0m\u001b[1maws_iam_instance_profile.terraform_profile: Refreshing state... (ID: terraform_profile)\u001b[0m\r\n"
+    ],
+    [
+      0.527199,
+      "\u001b[0m\u001b[1maws_iam_role_policy_attachment.terraform_delete_policy-attach: Refreshing state... (ID: ec2-role-003940b90e39e2debb3ac8d5c1)\u001b[0m\r\n"
+    ],
+    [
+      0.056912,
+      "\u001b[0m\u001b[1maws_iam_role_policy_attachment.terraform_read_policy-attach: Refreshing state... (ID: ec2-role-003940b90e39e2debb3ac8d5c3)\u001b[0m\r\n"
+    ],
+    [
+      0.001693,
+      "\u001b[0m\u001b[1maws_instance.terraform: Refreshing state... (ID: i-092c4b074304db625)\u001b[0m\r\n"
+    ],
+    [
+      0.02719,
+      "\u001b[0m\u001b[1maws_iam_role_policy_attachment.terraform_create_policy-attach: Refreshing state... (ID: ec2-role-003940b90e39e2debb3ac8d5c2)\u001b[0m\r\n"
+    ],
+    [
+      1.135547,
+      "\u001b[0m\u001b[1maws_route_table.main: Refreshing state... (ID: rtb-7628281e)\u001b[0m\r\n"
+    ],
+    [
+      0.002068,
+      "\u001b[0m\u001b[1maws_subnet.subnet_pub: Refreshing state... (ID: subnet-b3a9a7db)\u001b[0m\r\n"
+    ],
+    [
+      0.291892,
+      "\u001b[0m\u001b[1maws_security_group.az: Refreshing state... (ID: sg-826145e9)\u001b[0m\r\n"
+    ],
+    [
+      0.003673,
+      "\u001b[0m\u001b[1maws_route_table_association.main: Refreshing state... (ID: rtbassoc-04d55a6f)\u001b[0m\r\n"
+    ],
+    [
+      0.449866,
+      "\u001b[0m\u001b[1maws_eip_association.eip_association: Refreshing state... (ID: eipassoc-10dc3e7a)\u001b[0m\r\n"
+    ],
+    [
+      3.100685,
+      "The Terraform execution plan has been generated and is shown below.\r\n"
+    ],
+    [
+      3.2e-05,
+      "Resources are shown in alphabetical order for quick scanning. Green resources\r\n"
+    ],
+    [
+      7.8e-05,
+      "will be created (or destroyed and then created if an existing resource\r\n"
+    ],
+    [
+      0.000139,
+      "exists), yellow resources are being changed in-place, and red resources\r\n"
+    ],
+    [
+      1.9e-05,
+      "will be destroyed. Cyan entries are data sources to be read.\r\n\r\n"
+    ],
+    [
+      8.3e-05,
+      "Note: You didn't specify an \"-out\" parameter to save this plan, so when\r\n"
+    ],
+    [
+      8.6e-05,
+      "\"apply\" is called, Terraform can't guarantee this is what will execute.\r\n\r\n"
+    ],
+    [
+      6.6e-05,
+      "\u001b[32m-/+ aws_eip_association.eip_association\r\n"
+    ],
+    [
+      0.000123,
+      "\u001b[0m    allocation_id:        \"eipalloc-b892a0d1\" => \"eipalloc-b892a0d1\"\r\n"
+    ],
+    [
+      0.000107,
+      "    instance_id:          \"i-092c4b074304db625\" => \"${aws_instance.terraform.id}\" \u001b[31m(forces new resource)\u001b[0m\r\n"
+    ],
+    [
+      6.1e-05,
+      "    network_interface_id: \"eni-5fcf952e\" => \"<computed>\"\r\n"
+    ],
+    [
+      6.6e-05,
+      "    private_ip_address:   \"172.31.13.120\" => \"<computed>\"\r\n"
+    ],
+    [
+      7.6e-05,
+      "    public_ip:            \"35.156.72.198\" => \"<computed>\"\r\n"
+    ],
+    [
+      9e-06,
+      "\u001b[0m\r\n"
+    ],
+    [
+      5.9e-05,
+      "\u001b[0m\u001b[32m-/+ aws_instance.terraform (tainted)\r\n"
+    ],
+    [
+      8.9e-05,
+      "\u001b[0m    ami:                          \"ami-5900cc36\" => \"ami-5900cc36\"\r\n"
+    ],
+    [
+      7e-05,
+      "    associate_public_ip_address:  \"true\" => \"<computed>\"\r\n"
+    ],
+    [
+      8.6e-05,
+      "    availability_zone:            \"eu-central-1b\" => \"<computed>\"\r\n"
+    ],
+    [
+      6.5e-05,
+      "    ebs_block_device.#:           \"0\" => \"<computed>\"\r\n"
+    ],
+    [
+      6.8e-05,
+      "    ephemeral_block_device.#:     \"0\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000123,
+      "    iam_instance_profile:         \"terraform_profile\" => \"terraform_profile\"\r\n"
+    ],
+    [
+      6e-05,
+      "    instance_state:               \"running\" => \"<computed>\"\r\n"
+    ],
+    [
+      6.7e-05,
+      "    instance_type:                \"t2.micro\" => \"t2.micro\"\r\n"
+    ],
+    [
+      5.6e-05,
+      "    ipv6_address_count:           \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      4.7e-05,
+      "    ipv6_addresses.#:             \"0\" => \"<computed>\"\r\n"
+    ],
+    [
+      6.4e-05,
+      "    key_name:                     \"deployer-key\" => \"deployer-key\"\r\n"
+    ],
+    [
+      4e-05,
+      "    network_interface.#:          \"0\" => \"<computed>\"\r\n"
+    ],
+    [
+      5.8e-05,
+      "    network_interface_id:         \"eni-5fcf952e\" => \"<computed>\"\r\n"
+    ],
+    [
+      4.1e-05,
+      "    placement_group:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      4.6e-05,
+      "    primary_network_interface_id: \"eni-5fcf952e\" => \"<computed>\"\r\n"
+    ],
+    [
+      7.6e-05,
+      "    private_dns:                  \"ip-172-31-13-120.eu-central-1.compute.internal\" => \"<computed>\"\r\n"
+    ],
+    [
+      5e-05,
+      "    private_ip:                   \"172.31.13.120\" => \"<computed>\"\r\n"
+    ],
+    [
+      8.2e-05,
+      "    public_dns:                   \"ec2-35-156-72-198.eu-central-1.compute.amazonaws.com\" => \"<computed>\"\r\n"
+    ],
+    [
+      4.8e-05,
+      "    public_ip:                    \"35.156.72.198\" => \"<computed>\"\r\n"
+    ],
+    [
+      4.2e-05,
+      "    root_block_device.#:          \"1\" => \"<computed>\"\r\n"
+    ],
+    [
+      6.2e-05,
+      "    security_groups.#:            \"0\" => \"<computed>\"\r\n"
+    ],
+    [
+      3.7e-05,
+      "    source_dest_check:            \"true\" => \"true\"\r\n"
+    ],
+    [
+      5.2e-05,
+      "    subnet_id:                    \"subnet-0248a179\" => \"<computed>\"\r\n"
+    ],
+    [
+      3.4e-05,
+      "    tags.%:                       \"1\" => \"1\"\r\n"
+    ],
+    [
+      7e-05,
+      "    tags.Name:                    \"terraform-formation-lls\" => \"terraform-formation-lls\"\r\n"
+    ],
+    [
+      4.3e-05,
+      "    tenancy:                      \"default\" => \"<computed>\"\r\n"
+    ],
+    [
+      9.2e-05,
+      "    user_data:                    \"02bb1ea13c2384e2ad216ae11a7906b297315fd9\" => \"02bb1ea13c2384e2ad216ae11a7906b297315fd9\"\r\n"
+    ],
+    [
+      6.2e-05,
+      "    volume_tags.%:                \"0\" => \"<computed>\"\r\n"
+    ],
+    [
+      4.2e-05,
+      "    vpc_security_group_ids.#:     \"1\" => \"<computed>\"\r\n\u001b[0m\r\n"
+    ],
+    [
+      1.4e-05,
+      "\u001b[0m\r\n"
+    ],
+    [
+      6.5e-05,
+      "\u001b[0m\u001b[1mPlan:\u001b[0m 2 to add, 0 to change, 2 to destroy.\u001b[0m\r\n"
+    ],
+    [
+      0.00642,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      3.2e-05,
+      "\u001b]2;jboulanger@jbo-laptop: ~/Documents/PROJETS/terraform-formation/projet_2/terraform\u0007\u001b]1;..t_2/terraform\u0007"
+    ],
+    [
+      0.081733,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n \u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mjboulanger@jbo-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/PROJETS/terraform-formation/projet_2/terraform \u001b[43m\u001b[34m \u001b[30mmaster ✚ ? \u001b[49m\u001b[33m\u001b[39m \r\n>\u001b[K\u001b[151C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10012 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:47:57 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[174D"
+    ],
+    [
+      2e-05,
+      "\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      7.899719,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000266,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.001044,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000307,
+      "\u001b]2;jboulanger@jbo-laptop: ~/Documents/PROJETS/terraform-formation/projet_2/terraform\u0007"
+    ],
+    [
+      5.9e-05,
+      "\u001b]1;..t_2/terraform\u0007"
+    ],
+    [
+      0.068781,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n \u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mjboulanger@jbo-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/PROJETS/terraform-formation/projet_2/terraform \u001b[43m\u001b[34m \u001b[30mmaster ✚ ? \u001b[49m\u001b[33m\u001b[39m \r\n>\u001b[K\u001b[151C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10012 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:48:05 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[174D\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.45705,
+      "terraform plan"
+    ],
+    [
+      0.416991,
+      "\b \b"
+    ],
+    [
+      0.172741,
+      "\b \b"
+    ],
+    [
+      0.136298,
+      "\b \b"
+    ],
+    [
+      0.396218,
+      "\b \b"
+    ],
+    [
+      0.189906,
+      "a"
+    ],
+    [
+      0.089714,
+      "p"
+    ],
+    [
+      0.181006,
+      "p"
+    ],
+    [
+      0.159579,
+      "l"
+    ],
+    [
+      0.161865,
+      "y"
+    ],
+    [
+      0.626352,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.000158,
+      "\u001b[?2004l"
+    ],
+    [
+      4.7e-05,
+      "\r\r\n"
+    ],
+    [
+      0.002394,
+      "\u001b]2;terraform apply\u0007\u001b]1;terraform\u0007"
+    ],
+    [
+      2.945343,
+      "\u001b[0m\u001b[1maws_vpc.main: Refreshing state... (ID: vpc-057c3a6d)\u001b[0m\r\n"
+    ],
+    [
+      0.004789,
+      "\u001b[0m\u001b[1maws_key_pair.deployer: Refreshing state... (ID: deployer-key)\u001b[0m\r\n"
+    ],
+    [
+      3.3e-05,
+      "\u001b[0m\u001b[1maws_eip.eip: Refreshing state... (ID: eipalloc-b892a0d1)\u001b[0m\r\n"
+    ],
+    [
+      0.00041,
+      "\u001b[0m\u001b[1mdata.aws_ami.debian_ami: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      0.001672,
+      "\u001b[0m\u001b[1maws_iam_role.role: Refreshing state... (ID: ec2-role)\u001b[0m\r\n"
+    ],
+    [
+      0.000442,
+      "\u001b[0m\u001b[1mdata.aws_iam_policy_document.terraform_read_policy: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      0.002142,
+      "\u001b[0m\u001b[1mdata.aws_availability_zones.all: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      0.000139,
+      "\u001b[0m\u001b[1mdata.aws_iam_policy_document.terraform_delete_policy: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      0.000884,
+      "\u001b[0m\u001b[1maws_iam_policy.terraform_read_policy: Refreshing state... (ID: arn:aws:iam::258307565614:policy/terraform_read_policy)\u001b[0m\r\n"
+    ],
+    [
+      0.001656,
+      "\u001b[0m\u001b[1maws_iam_policy.terraform_delete_policy: Refreshing state... (ID: arn:aws:iam::258307565614:policy/terraform_delete_policy)\u001b[0m\r\n"
+    ],
+    [
+      0.000188,
+      "\u001b[0m\u001b[1mdata.aws_iam_policy_document.terraform_create_policy: Refreshing state...\u001b[0m\r\n"
+    ],
+    [
+      0.004092,
+      "\u001b[0m\u001b[1maws_iam_policy.terraform_create_policy: Refreshing state... (ID: arn:aws:iam::258307565614:policy/terraform_create_policy)\u001b[0m\r\n"
+    ],
+    [
+      0.541734,
+      "\u001b[0m\u001b[1maws_iam_instance_profile.terraform_profile: Refreshing state... (ID: terraform_profile)\u001b[0m\r\n"
+    ],
+    [
+      0.461023,
+      "\u001b[0m\u001b[1maws_iam_role_policy_attachment.terraform_read_policy-attach: Refreshing state... (ID: ec2-role-003940b90e39e2debb3ac8d5c3)\u001b[0m\r\n"
+    ],
+    [
+      0.003446,
+      "\u001b[0m\u001b[1maws_iam_role_policy_attachment.terraform_create_policy-attach: Refreshing state... (ID: ec2-role-003940b90e39e2debb3ac8d5c2)\u001b[0m\r\n"
+    ],
+    [
+      0.006452,
+      "\u001b[0m\u001b[1maws_instance.terraform: Refreshing state... (ID: i-092c4b074304db625)\u001b[0m\r\n"
+    ],
+    [
+      0.033885,
+      "\u001b[0m\u001b[1maws_iam_role_policy_attachment.terraform_delete_policy-attach: Refreshing state... (ID: ec2-role-003940b90e39e2debb3ac8d5c1)\u001b[0m\r\n"
+    ],
+    [
+      0.937145,
+      "\u001b[0m\u001b[1maws_subnet.subnet_pub: Refreshing state... (ID: subnet-b3a9a7db)\u001b[0m\r\n"
+    ],
+    [
+      0.001804,
+      "\u001b[0m\u001b[1maws_route_table.main: Refreshing state... (ID: rtb-7628281e)\u001b[0m\r\n"
+    ],
+    [
+      0.308691,
+      "\u001b[0m\u001b[1maws_security_group.az: Refreshing state... (ID: sg-826145e9)\u001b[0m\r\n"
+    ],
+    [
+      0.049301,
+      "\u001b[0m\u001b[1maws_route_table_association.main: Refreshing state... (ID: rtbassoc-04d55a6f)\u001b[0m\r\n"
+    ],
+    [
+      0.163912,
+      "\u001b[0m\u001b[1maws_eip_association.eip_association: Refreshing state... (ID: eipassoc-10dc3e7a)\u001b[0m\r\n"
+    ],
+    [
+      6.086553,
+      "\u001b[0m\u001b[1maws_eip_association.eip_association: Destroying... (ID: eipassoc-10dc3e7a)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.727563,
+      "\u001b[0m\u001b[1maws_eip_association.eip_association: Destruction complete\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.025676,
+      "\u001b[0m\u001b[1maws_instance.terraform: Destroying... (ID: i-092c4b074304db625)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      10.00047,
+      "\u001b[0m\u001b[1maws_instance.terraform: Still destroying... (ID: i-092c4b074304db625, 10s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      10.000432,
+      "\u001b[0m\u001b[1maws_instance.terraform: Still destroying... (ID: i-092c4b074304db625, 20s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      10.000278,
+      "\u001b[0m\u001b[1maws_instance.terraform: Still destroying... (ID: i-092c4b074304db625, 30s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      10.0005,
+      "\u001b[0m\u001b[1maws_instance.terraform: Still destroying... (ID: i-092c4b074304db625, 40s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      10.000498,
+      "\u001b[0m\u001b[1maws_instance.terraform: Still destroying... (ID: i-092c4b074304db625, 50s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      10.000145,
+      "\u001b[0m\u001b[1maws_instance.terraform: Still destroying... (ID: i-092c4b074304db625, 1m0s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      2.44823,
+      "\u001b[0m\u001b[1maws_instance.terraform: Destruction complete\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.023921,
+      "\u001b[0m\u001b[1maws_instance.terraform: Creating...\u001b[0m\r\n"
+    ],
+    [
+      8.6e-05,
+      "  ami:                          \"\" => \"ami-5900cc36\"\r\n"
+    ],
+    [
+      0.000249,
+      "  associate_public_ip_address:  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000184,
+      "  availability_zone:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00023,
+      "  ebs_block_device.#:           \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000144,
+      "  ephemeral_block_device.#:     \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.001192,
+      "  iam_instance_profile:         \"\" => \"terraform_profile\"\r\n  instance_state:               \"\" => \"<computed>\"\r\n  instance_type:                \"\" => \"t2.micro\"\r\n  ipv6_address_count:           \"\" => \"<computed>\"\r\n  ipv6_addresses.#:             \"\" => \"<computed>\"\r\n  key_name:                     \"\" => \"deployer-key\"\r\n"
+    ],
+    [
+      6.1e-05,
+      "  network_interface.#:          \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000202,
+      "  network_interface_id:         \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000216,
+      "  placement_group:              \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000137,
+      "  primary_network_interface_id: \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000242,
+      "  private_dns:                  \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000222,
+      "  private_ip:                   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000211,
+      "  public_dns:                   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000242,
+      "  public_ip:                    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000164,
+      "  root_block_device.#:          \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000306,
+      "  security_groups.#:            \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.00021,
+      "  source_dest_check:            \"\" => \"true\"\r\n"
+    ],
+    [
+      0.000248,
+      "  subnet_id:                    \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000187,
+      "  tags.%:                       \"\" => \"1\"\r\n"
+    ],
+    [
+      0.000279,
+      "  tags.Name:                    \"\" => \"terraform-formation-lls\"\r\n"
+    ],
+    [
+      0.000232,
+      "  tenancy:                      \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000262,
+      "  user_data:                    \"\" => \"02bb1ea13c2384e2ad216ae11a7906b297315fd9\"\r\n"
+    ],
+    [
+      0.000204,
+      "  volume_tags.%:                \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.000276,
+      "  vpc_security_group_ids.#:     \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      9.994572,
+      "\u001b[0m\u001b[1maws_instance.terraform: Still creating... (10s elapsed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      8.367616,
+      "\u001b[0m\u001b[1maws_instance.terraform: Creation complete (ID: i-06e823a067e1100ed)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.010716,
+      "\u001b[0m\u001b[1maws_eip_association.eip_association: Creating...\u001b[0m\r\n"
+    ],
+    [
+      3.5e-05,
+      "  allocation_id:        \"\" => \"eipalloc-b892a0d1\"\r\n"
+    ],
+    [
+      1.8e-05,
+      "  instance_id:          \"\" => \"i-06e823a067e1100ed\"\r\n"
+    ],
+    [
+      0.000136,
+      "  network_interface_id: \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      2.4e-05,
+      "  private_ip_address:   \"\" => \"<computed>\"\r\n"
+    ],
+    [
+      0.0001,
+      "  public_ip:            \"\" => \"<computed>\"\u001b[0m\r\n"
+    ],
+    [
+      1.445283,
+      "\u001b[0m\u001b[1maws_eip_association.eip_association: Creation complete (ID: eipassoc-e936d483)\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.022646,
+      "\u001b[0m\u001b[1m\u001b[32m\r\n"
+    ],
+    [
+      2.8e-05,
+      "Apply complete! Resources: 2 added, 0 changed, 2 destroyed.\u001b[0m\r\n"
+    ],
+    [
+      4.8e-05,
+      "\u001b[0m\r\n"
+    ],
+    [
+      0.000149,
+      "The state of your infrastructure has been saved to the path\r\n"
+    ],
+    [
+      0.000134,
+      "below. This state is required to modify and destroy your\r\n"
+    ],
+    [
+      6.1e-05,
+      "infrastructure, so keep it safe. To inspect the complete state\r\n"
+    ],
+    [
+      2.1e-05,
+      "use the `terraform show` command.\r\n"
+    ],
+    [
+      1.3e-05,
+      "\r\n"
+    ],
+    [
+      0.000152,
+      "State path: \u001b[0m\r\n"
+    ],
+    [
+      1.4e-05,
+      "\u001b[0m\u001b[1m\u001b[32m\r\n"
+    ],
+    [
+      0.000171,
+      "Outputs:\r\n\r\n"
+    ],
+    [
+      6.7e-05,
+      "ami = ami-5900cc36\r\naws_instance = ami-5900cc36\r\n"
+    ],
+    [
+      1.9e-05,
+      "vpc_id = vpc-057c3a6d\u001b[0m\r\n"
+    ],
+    [
+      0.007241,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000109,
+      "\u001b]2;jboulanger@jbo-laptop: ~/Documents/PROJETS/terraform-formation/projet_2/terraform\u0007"
+    ],
+    [
+      1.9e-05,
+      "\u001b]1;..t_2/terraform\u0007"
+    ],
+    [
+      0.088055,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n \u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mjboulanger@jbo-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/PROJETS/terraform-formation/projet_2/terraform \u001b[43m\u001b[34m \u001b[30mmaster ✚ ? \u001b[49m\u001b[33m\u001b[39m \r\n>\u001b[K\u001b[151C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10013 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:49:43 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[174D\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      69.946426,
+      "s"
+    ],
+    [
+      0.151756,
+      "\bss"
+    ],
+    [
+      0.126228,
+      "h -i ~/.ssh/testjbo.pem ec2-user@52.214.20.187"
+    ],
+    [
+      0.731558,
+      "\u001b[?1l\u001b>"
+    ],
+    [
+      0.00016,
+      "\u001b[?2004l\r\r\n"
+    ],
+    [
+      0.002118,
+      "\u001b]2;ssh -i ~/.ssh/testjbo.pem ec2-user@52.214.20.187\u0007\u001b]1;~/.ssh/testjbo.pem\u0007"
+    ],
+    [
+      0.61725,
+      "Last login: Mon Jul 24 16:38:07 2017 from 74.121.128.77.rev.sfr.net\r\r\n\r\n"
+    ],
+    [
+      0.002861,
+      "       __|  __|_  )\r\n       _|  (     /   Amazon Linux AMI\r\n      ___|\\___|___|\r\n\r\nhttps://aws.amazon.com/amazon-linux-ami/2017.03-release-notes/\r\n"
+    ],
+    [
+      0.010442,
+      "\u001b]0;ec2-user@ip-172-31-10-212:~\u0007\u001b[?1034h[ec2-user@ip-172-31-10-212 ~]$ "
+    ],
+    [
+      1.060274,
+      "\r\n\u001b]0;ec2-user@ip-172-31-10-212:~\u0007[ec2-user@ip-172-31-10-212 ~]$ "
+    ],
+    [
+      0.191049,
+      "\r\n"
+    ],
+    [
+      0.000172,
+      "\u001b]0;ec2-user@ip-172-31-10-212:~\u0007[ec2-user@ip-172-31-10-212 ~]$ "
+    ],
+    [
+      0.777225,
+      "t"
+    ],
+    [
+      0.08401,
+      "e"
+    ],
+    [
+      0.12794,
+      "r"
+    ],
+    [
+      0.143905,
+      "r"
+    ],
+    [
+      0.227541,
+      "\u0007"
+    ],
+    [
+      0.266137,
+      "\u0007"
+    ],
+    [
+      0.164816,
+      "\u0007"
+    ],
+    [
+      0.842448,
+      "\b\u001b[K"
+    ],
+    [
+      0.176147,
+      "\b\u001b[K"
+    ],
+    [
+      0.170926,
+      "\b\u001b[K"
+    ],
+    [
+      0.139623,
+      "\b\u001b[K"
+    ],
+    [
+      0.255808,
+      "l"
+    ],
+    [
+      0.12012,
+      "s"
+    ],
+    [
+      0.164851,
+      " "
+    ],
+    [
+      0.530954,
+      "/"
+    ],
+    [
+      0.633767,
+      "u"
+    ],
+    [
+      0.041839,
+      "s"
+    ],
+    [
+      0.08528,
+      "r/"
+    ],
+    [
+      0.143768,
+      "l"
+    ],
+    [
+      0.223414,
+      "o"
+    ],
+    [
+      0.1975,
+      "cal/"
+    ],
+    [
+      1.02539,
+      "b"
+    ],
+    [
+      0.086484,
+      "i"
+    ],
+    [
+      0.200187,
+      "n"
+    ],
+    [
+      0.073096,
+      "/"
+    ],
+    [
+      0.291815,
+      "\r\n"
+    ],
+    [
+      0.000164,
+      "\u001b]0;ec2-user@ip-172-31-10-212:~\u0007[ec2-user@ip-172-31-10-212 ~]$ "
+    ],
+    [
+      2.735016,
+      "t"
+    ],
+    [
+      0.162089,
+      "a"
+    ],
+    [
+      0.100811,
+      "i"
+    ],
+    [
+      0.223877,
+      "l"
+    ],
+    [
+      0.267215,
+      "\b\u001b[K"
+    ],
+    [
+      0.151027,
+      "\b\u001b[K"
+    ],
+    [
+      0.163155,
+      "\b\u001b[K"
+    ],
+    [
+      0.157537,
+      "\b\u001b[K"
+    ],
+    [
+      0.13593,
+      "v"
+    ],
+    [
+      0.118356,
+      "i"
+    ],
+    [
+      0.221102,
+      "m"
+    ],
+    [
+      0.114081,
+      " "
+    ],
+    [
+      0.1593,
+      "/"
+    ],
+    [
+      1.329446,
+      "a"
+    ],
+    [
+      0.256909,
+      "\b\u001b[K"
+    ],
+    [
+      0.107429,
+      "v"
+    ],
+    [
+      0.134361,
+      "a"
+    ],
+    [
+      0.108138,
+      "r"
+    ],
+    [
+      0.172117,
+      "/"
+    ],
+    [
+      0.211109,
+      "l"
+    ],
+    [
+      0.198863,
+      "o"
+    ],
+    [
+      0.096005,
+      "g"
+    ],
+    [
+      0.191674,
+      "/"
+    ],
+    [
+      6.474705,
+      "s"
+    ],
+    [
+      0.183611,
+      "y"
+    ],
+    [
+      0.094765,
+      "s"
+    ],
+    [
+      0.124482,
+      "\u0007"
+    ],
+    [
+      0.445001,
+      "l"
+    ],
+    [
+      0.104358,
+      "\u0007"
+    ],
+    [
+      0.31215,
+      "\u0007"
+    ],
+    [
+      0.178539,
+      "\u0007"
+    ],
+    [
+      0.265944,
+      "\b\u001b[K"
+    ],
+    [
+      0.164811,
+      "\b\u001b[K"
+    ],
+    [
+      0.165427,
+      "\b\u001b[K"
+    ],
+    [
+      0.224239,
+      "\u0007"
+    ],
+    [
+      0.185119,
+      "\r\nsecure   spooler  \r\n[ec2-user@ip-172-31-10-212 ~]$ vim /var/log/s"
+    ],
+    [
+      0.18472,
+      "\b\u001b[K"
+    ],
+    [
+      0.210336,
+      "\u0007"
+    ],
+    [
+      0.271886,
+      "\r\naudit/                 cloud-init.log         dmesg                  mail/                  ntpstats/              tallylog               \r\nboot.log               cloud-init-output.log  dracut.log             maillog                secure                 wtmp                   \r\nbtmp                   cron                   lastlog                messages               spooler                yum.log                \r\n[ec2-user@ip-172-31-10-212 ~]$ vim /var/log/"
+    ],
+    [
+      1.920284,
+      "m"
+    ],
+    [
+      0.172779,
+      "e"
+    ],
+    [
+      0.204884,
+      "s"
+    ],
+    [
+      0.104991,
+      "sages "
+    ],
+    [
+      0.379431,
+      "\r\n"
+    ],
+    [
+      0.174682,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.00203,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H\u001b]11;?\u0007\u001b[1;43r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[43;1H\"/var/log/messages\" [Permission Denied]\u001b[>c\u001b[2;1H\u001b[94m~                                                                                                                                                                               \u001b[3;1H~                                                                                                                                                                               \u001b[4;1H~                                                                                                                                                                               \u001b[5;1H~                                                                                                                                                                               \u001b[6;1H~                                                                                                                                                       "
+    ],
+    [
+      9.3e-05,
+      "                        \u001b[7;1H~                                                                                                                                                                               \u001b[8;1H~                                                                                                                                                                               \u001b[9;1H~                                                                                                                                                                               \u001b[10;1H~                                                                                                                                                                               \u001b[11;1H~                                                                                                                                                                               \u001b[12;1H~                                                                                "
+    ],
+    [
+      9e-05,
+      "                                                                                               \u001b[13;1H~                                                                                                                                                                               \u001b[14;1H~                                                                                                                                                                               \u001b[15;1H~                                                                                                                                                                               \u001b[16;1H~                                                                                                                                                                               \u001b[17;1H~                                                                                                                                                                               \u001b[18;1H~      "
+    ],
+    [
+      6e-05,
+      "                                                                                                                                                                         \u001b[19;1H~                                                                                                                                                                               \u001b[20;1H~                                                                                                                                                                               \u001b[21;1H~                                                                                                                                                                               \u001b[22;1H~                                                                                                                                                                               \u001b[23;1H~                                                                                                                   "
+    ],
+    [
+      4.6e-05,
+      "                                                            \u001b[24;1H~                                                               "
+    ],
+    [
+      0.008625,
+      "                                                                                                                \u001b[25;1H~                                                                                                                                                                               \u001b[26;1H~                                                                                                                                                                               \u001b[27;1H~                                                                                                                                                                               \u001b[28;1H~                                                                                                                                                                               \u001b[29;1H~                                                                                                                                                                            "
+    ],
+    [
+      6.4e-05,
+      "   \u001b[30;1H~                                                                                                                                                                               \u001b[31;1H~                                                                                                                                                                               \u001b[32;1H~                                                                                                                                                                               \u001b[33;1H~                                                                                                                                                                               \u001b[34;1H~                                                                                                                                                                               \u001b[35;1H~                                                                                                 "
+    ],
+    [
+      0.016993,
+      "                                                                              \u001b[36;1H~                                                                                                                                                                               \u001b[37;1H~                                                                                                                                                                               \u001b[38;1H~                                                                                                                                                                               \u001b[39;1H~                                                                                                                                                                               \u001b[40;1H~                                                                                                                                                                               \u001b[41;1H~                       "
+    ],
+    [
+      7.6e-05,
+      "                                                                                                                                                        \u001b[42;1H~                                                                                                                                                                               \u001b[m\u001b[43;159H0,0-1\u001b[9CAll\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.25165,
+      "\u001b[?25l\u001b[43;1H\u001b[K\u001b[43;1H:"
+    ],
+    [
+      0.028237,
+      "\u001b[34;1H\u001b[7m/var/log/messages [RO]                                                                                                                                        0,0-1          All\u001b[m\u001b[35;1H\u001b[94m:\u001b[m\u001b[35;2H\u001b[K\u001b[36;1H\u001b[94m:\r\n:\r\n:\r\n:\r\n:\r\n:\u001b[36;2H~\r\n:~\r\n:~\r\n:~\r\n:~\r\n:~\u001b[m\r\n\u001b[1m\u001b[7m[Command Line]                                                                                                                                                1,0-1          All\u001b[35;2H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.583811,
+      "\u001b[?25l\u001b[m\u001b[43;1H\u001b[K\u001b[43;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.076471,
+      "q"
+    ],
+    [
+      0.000925,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.214384,
+      "\r"
+    ],
+    [
+      0.002102,
+      "\u001b[?25l\u001b[34;1H\u001b[94m~                                                                                                                                                                               \u001b[35;1H~                                                                                                                                                                               \u001b[36;1H~  \r\n~  \r\n~  \r\n~  \r\n~  \r\n~  \r\n~                                                                                                                                                                               \u001b[m\u001b[43;159H0,0-1\u001b[9CAll\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.718152,
+      "\u001b[?25l\u001b[43;1H\u001b[K\u001b[43;1H:"
+    ],
+    [
+      0.000779,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.362286,
+      "q"
+    ],
+    [
+      0.001023,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.220004,
+      "\r"
+    ],
+    [
+      0.000229,
+      "\u001b[?25l"
+    ],
+    [
+      0.099229,
+      "\u001b[43;1H\u001b[K\u001b[43;1H\u001b[?2004l\u001b[?1l\u001b>"
+    ],
+    [
+      0.000122,
+      "\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.003242,
+      "\u001b]0;ec2-user@ip-172-31-10-212:~\u0007[ec2-user@ip-172-31-10-212 ~]$ "
+    ],
+    [
+      0.611864,
+      "vim /var/log/messages "
+    ],
+    [
+      0.377765,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.510959,
+      "\u001b[1@s"
+    ],
+    [
+      0.139367,
+      "\u001b[1@u"
+    ],
+    [
+      0.141928,
+      "\u001b[1@d"
+    ],
+    [
+      0.415271,
+      "\u001b[1@o"
+    ],
+    [
+      0.155086,
+      "\u001b[1@ "
+    ],
+    [
+      0.150779,
+      "\r\n"
+    ],
+    [
+      0.026994,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.000357,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H\u001b]11;?\u0007"
+    ],
+    [
+      0.000413,
+      "\u001b[1;43r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[43;1H\"/var/log/messages\" 422L, 43286C"
+    ],
+    [
+      0.001817,
+      "\u001b[>c"
+    ],
+    [
+      0.00382,
+      "\u001b[1;1H\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[mimklog \u001b[31m5\u001b[m.\u001b[31m8\u001b[m.\u001b[31m10\u001b[m, log source = /proc/kmsg started.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[38;5;130mrsyslogd: \u001b[m[origin software=\"rsyslogd\" swVersion=\"\u001b[31m5\u001b[m.\u001b[31m8\u001b[m.\u001b[31m10\u001b[m\" x-pid=\"\u001b[31m2251\u001b[m\" x-info=\"\u001b[4m\u001b[35mhttp://www.rsyslog.com\"]\u001b[m start\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Linux version \u001b[31m4\u001b[m.\u001b[31m9\u001b[m.\u001b[31m32\u001b[m-\u001b[31m15\u001b[m.\u001b[31m41\u001b[m.amzn1.x86_64 (mockbuild@gobi-build-\u001b[31m64010\u001b[m) (gcc version \u001b[31m4\u001b[m.\u001b[31m8\u001b[m.\u001b[31m3\u001b[m \u001b[31m20140911\u001b[m (Red Hat \u001b[31m4\u001b[m.\u001b[31m8\u001b[m.\u001b[31m3\u001b[m-\u001b[31m9\u001b[m) (GCC))\u001b[4;1H ) #\u001b[31m1\u001b[m SMP Thu Jun \u001b[31m22\u001b[m \u001b[31m06\u001b[m:\u001b[31m20\u001b[m:\u001b[31m54\u001b[m UTC \u001b[31m2017\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Command line: root=LABEL=/ console=tty1 console=ttyS0 selinux=\u001b[31m0\r\nJul 24 \u001b"
+    ],
+    [
+      0.000101,
+      "[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] x86/fpu: Supporting XSAVE feature \u001b[31m0x001\u001b[m: 'x87 floating point registers'\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] x86/fpu: Supporting XSAVE feature \u001b[31m0x002\u001b[m: 'SSE registers'\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] x86/fpu: Supporting XSAVE feature \u001b[31m0x004\u001b[m: 'AVX registers'\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] x86/fpu: xstate_offset[\u001b[31m2\u001b[m]:  \u001b[31m576\u001b[m, xstate_sizes[\u001b[31m2\u001b[m]:  \u001b[31m256\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] x86/fpu: Enabled xstate features \u001b[31m0x7\u001b[m, context size is \u001b[31m832\u001b[m bytes, using 'standard' format.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 "
+    ],
+    [
+      0.000684,
+      "\u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] x86/fpu: Using 'eager' FPU context switches.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] e820: BIOS-provided physical RAM map:\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] BIOS-e820: [mem \u001b[31m0x0000000000000000\u001b[m-\u001b[31m0x000000000009dfff\u001b[m] usable\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] BIOS-e820: [mem \u001b[31m0x000000000009e000\u001b[m-\u001b[31m0x000000000009ffff\u001b[m] reserved\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] BIOS-e820: [mem \u001b[31m0x00000000000e0000\u001b[m-\u001b[31m0x00000000000fffff\u001b[m] reserved\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] BIOS-e820: [mem \u001b[3"
+    ],
+    [
+      8.2e-05,
+      "1m0x0000000000100000\u001b[m-\u001b[31m0x000000003fffffff\u001b[m] usable\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] BIOS-e820: [mem \u001b[31m0x00000000fc000000\u001b[m-\u001b[31m0x00000000ffffffff\u001b[m] reserved\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] NX (Execute Disable) protection: active\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] SMBIOS \u001b[31m2\u001b[m.\u001b[31m4\u001b[m present.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Hypervisor detected: Xen\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Xen version \u001b[31m4\u001b[m.\u001b[31m2\u001b[m.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Netfront and the Xen platform PCI dr"
+    ],
+    [
+      0.017525,
+      "iver have been compiled for this kernel: unplug emulated NICs.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Blkfront and the Xen platform PCI driver have been compiled for this kernel: unplug emulated disks.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] You might have to change the root device\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] from /dev/hd[a-d] to /dev/xvd[a-d]\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] in your root= kernel command line option\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] e820: last_pfn = \u001b[31m0x40000\u001b[m max_arch_pfn = \u001b[31m0x400000000\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m["
+    ],
+    [
+      0.000137,
+      "    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] x86/PAT: Configuration [\u001b[31m0\u001b[m-\u001b[31m7\u001b[m]: WB  WC  UC- UC  WB  WC  UC- WT\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] found SMP MP-table at [mem \u001b[31m0x000fbc20\u001b[m-\u001b[31m0x000fbc2f\u001b[m] mapped at [ffff8800000fbc20]\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] RAMDISK: [mem \u001b[31m0x3721b000\u001b[m-\u001b[31m0x37feffff\u001b[m]\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: Early table checksum verification disabled\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: RSDP \u001b[31m0x00000000000EA020\u001b[m \u001b[31m000024\u001b[m (v02 Xen   )\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: XSDT \u001b[31m0x00000000FC00DDC0\u001b[m \u001b[31m000054\u001b[m (v01 X"
+    ],
+    [
+      6.2e-05,
+      "en    HVM      \u001b[31m00000000\u001b[m HVML \u001b[31m00000000\u001b[m)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: FACP \u001b[31m0x00000000FC00DA80\u001b[m \u001b[31m0000F4\u001b[m (v04 Xen    HVM      \u001b[31m00000000\u001b[m HVML \u001b[31m00000000\u001b[m)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: DSDT \u001b[31m0x00000000FC001CE0\u001b[m \u001b[31m00BD19\u001b[m (v02 Xen    HVM      \u001b[31m00000000\u001b[m INTL \u001b[31m20090123\u001b[m)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: FACS \u001b[31m0x00000000FC001CA0\u001b[m \u001b[31m000040\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: FACS \u001b[31m0x00000000FC001CA0\u001b[m \u001b[31m000040\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: APIC \u001b[31m0x00000000FC00DB80\u001b[m \u001b[31m0000D8\u001b[m (v0"
+    ],
+    [
+      7.2e-05,
+      "2 Xen    HVM      \u001b[31m00000000\u001b[m HVML \u001b[31m00000000\u001b[m)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: HPET \u001b[31m0x00000000FC00DCD0\u001b[m \u001b[31m000038\u001b[m (v01 Xen    HVM      \u001b[31m00000000\u001b[m HVML \u001b[31m00000000\u001b[m)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: WAET \u001b[31m0x00000000FC00DD10\u001b[m \u001b[31m000028\u001b[m (v01 Xen    HVM      \u001b[31m00000000\u001b[m HVML \u001b[31m00000000\u001b[m)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: SSDT \u001b[31m0x00000000FC00DD40\u001b[m \u001b[31m000031\u001b[m (v02 Xen    HVM      \u001b[31m00000000\u001b[m INTL \u001b[31m20090123\u001b[m)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: SSDT \u001b[31m0x00000000FC00DD80\u001b[m \u001b[31m000031\u001b[m (v02 Xen    HVM      \u001b[31m00000000\u001b[m INTL \u001b[31m20090123\u001b[m)\u001b[43;159H1,1\u001b[11CTop\u001b[1;1H\u001b[?12l\u001b[?"
+    ],
+    [
+      6.3e-05,
+      "25h"
+    ],
+    [
+      1.102743,
+      "\u001b[?25l\u001b[43;1H\u001b[K\u001b[43;1H/"
+    ],
+    [
+      0.012334,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.29734,
+      "i"
+    ],
+    [
+      0.000985,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.194324,
+      "n"
+    ],
+    [
+      0.003563,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.203595,
+      "i"
+    ],
+    [
+      0.001233,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.107502,
+      "t"
+    ],
+    [
+      9.8e-05,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.166319,
+      "\r"
+    ],
+    [
+      0.000327,
+      "\u001b[?25l"
+    ],
+    [
+      0.002595,
+      "\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[1;1H\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Initmem setup node \u001b[31m0\u001b[m [mem \u001b[31m0x0000000000001000\u001b[m-\u001b[31m0x000000003fffffff\u001b[m]\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: PM-Timer IO Port: \u001b[31m0xb008\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] IOAPIC[\u001b[31m0\u001b[m]: apic_id \u001b[31m1\u001b[m, version \u001b[31m17\u001b[m, address \u001b[31m0xfec00000\u001b[m, GSI \u001b[31m0\u001b[m-\u001b[31m47\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: INT_SRC_OVR (bus \u001b[31m0\u001b[m bus_irq \u001b[31m0\u001b[m global_irq \u001b[31m2\u001b[m dfl dfl)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: INT_SRC_OVR (bus \u001b[31m0\u001b[m bus_irq \u001b[31m5\u001b[m global_irq \u001b[31m5\u001b[m low level)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m1"
+    ],
+    [
+      9.1e-05,
+      "4:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: INT_SRC_OVR (bus \u001b[31m0\u001b[m bus_irq \u001b[31m10\u001b[m global_irq \u001b[31m10\u001b[m low level)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: INT_SRC_OVR (bus \u001b[31m0\u001b[m bus_irq \u001b[31m11\u001b[m global_irq \u001b[31m11\u001b[m low level)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Using ACPI (MADT) for SMP configuration information\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] ACPI: HPET id: \u001b[31m0x8086a201\u001b[m base: \u001b[31m0xfed00000\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] smpboot: Allowing \u001b[31m15\u001b[m CPUs, \u001b[31m14\u001b[m hotplug CPUs\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0"
+    ],
+    [
+      0.004298,
+      "\u001b[m.\u001b[31m000000\u001b[m] e820: [mem \u001b[31m0x40000000\u001b[m-\u001b[31m0xfbffffff\u001b[m] available for PCI devices\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Booting paravirtualized kernel on Xen HVM\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] clocksource: refined-jiffies: mask: \u001b[31m0xffffffff\u001b[m max_cycles: \u001b[31m0xffffffff\u001b[m, max_idle_ns: \u001b[31m7645519600211568\u001b[m ns\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] setup_percpu: NR_CPUS:\u001b[31m128\u001b[m nr_cpumask_bits:\u001b[31m128\u001b[m nr_cpu_ids:\u001b[31m15\u001b[m nr_node_ids:\u001b[31m1\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] percpu: Embedded \u001b[31m34\u001b[m pages/cpu @ffff88003e200000 s101720 r8192 d29352 u262144\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0"
+    ],
+    [
+      8.7e-05,
+      "\u001b[m.\u001b[31m000000\u001b[m] PV qspinlock hash table entries: \u001b[31m256\u001b[m (order: \u001b[31m0\u001b[m, \u001b[31m4096\u001b[m bytes)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Built \u001b[31m1\u001b[m zonelists in Node order, mobility grouping on.  Total pages: \u001b[31m257928\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Policy zone: DMA32\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Kernel command line: root=LABEL=/ console=tty1 console=ttyS0 selinux=\u001b[31m0\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] PID hash table entries: \u001b[31m4096\u001b[m (order: \u001b[31m3\u001b[m, \u001b[31m32768\u001b[m bytes)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Memory: \u001b[31m999516\u001b[mK/\u001b[31m1048180\u001b[mK available (\u001b[31m5347"
+    ],
+    [
+      0.001511,
+      "\u001b[mK kernel code, \u001b[31m1108\u001b[mK rwdata, \u001b[31m2440\u001b[mK rodata, \u001b[31m1256\u001b[mK \u001b[103minit\u001b[m, \u001b[31m3124\u001b[mK bss, \u001b[31m48664\u001b[mK reservee\u001b[22;1Hd, \u001b[31m0\u001b[mK cma-reserved)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] SLUB: HWalign=\u001b[31m64\u001b[m, Order=\u001b[31m0\u001b[m-\u001b[31m3\u001b[m, MinObjects=\u001b[31m0\u001b[m, CPUs=\u001b[31m15\u001b[m, Nodes=\u001b[31m1\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Hierarchical RCU implementation.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m]\u001b[9CBuild-time adjustment of leaf fanout to \u001b[31m64\u001b[m.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m]\u001b[9CRCU restricting CPUs from NR_CPUS=\u001b[31m128\u001b[m to nr_cpu_ids=\u001b[31m15\u001b[m.\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m"
+    ],
+    [
+      0.000129,
+      "] RCU: Adjusting geometry for rcu_fanout_leaf=\u001b[31m64\u001b[m, nr_cpu_ids=\u001b[31m15\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] NR_IRQS:\u001b[31m8448\u001b[m nr_irqs:\u001b[31m952\u001b[m \u001b[31m16\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] xen:events: Using \u001b[31m2\u001b[m-level ABI\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] xen:events: Xen HVM callback vector for event delivery is enabled\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Console: colour VGA+ \u001b[31m80\u001b[mx25\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] console [tty1] enabled\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] Cannot get hvm parameter CONSOL"
+    ],
+    [
+      0.000424,
+      "E_EVTCHN (\u001b[31m18\u001b[m): -\u001b[31m22\u001b[m!\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] console [ttyS0] enabled\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] clocksource: hpet: mask: \u001b[31m0xffffffff\u001b[m max_cycles: \u001b[31m0xffffffff\u001b[m, max_idle_ns: \u001b[31m30580167144\u001b[m ns\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] tsc: Fast TSC calibration using PIT\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m000000\u001b[m] tsc: Detected \u001b[31m2400\u001b[m.\u001b[31m092\u001b[m MHz processor\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m024000\u001b[m] Calibrating delay loop (skipped), value calculated using timer frequency.. \u001b[31m4800\u001b[m.\u001b[31m08\u001b[m BogoMIPS (lpj=\u001b[31m9600168\u001b[m)\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36m"
+    ],
+    [
+      6.6e-05,
+      "ip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m030258\u001b[m] pid_max: default: \u001b[31m32768\u001b[m minimum: \u001b[31m301\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m032017\u001b[m] ACPI: Core revision \u001b[31m20160831\r\nJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m040742\u001b[m] ACPI: \u001b[31m3\u001b[m ACPI AML tables successfully acquired and loaded\r\n\u001b[31mJul 24 \u001b[m\u001b[32m14:14:41 \u001b[m\u001b[36mip-172-31-10-212 \u001b[m\u001b[35mkernel:\u001b[m\u001b[38;5;130m \u001b[m[    \u001b[31m0\u001b[m.\u001b[31m044025\u001b[m] Security Framework \u001b[103minit\u001b[mialized\u001b[43;159H73,146\u001b[8C13%\u001b[21;146H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.303215,
+      "\u001b[?25l\u001b[43;159H\u001b[K\u001b[43;1H/"
+    ],
+    [
+      0.002456,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.678344,
+      "u"
+    ],
+    [
+      0.001169,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.145113,
+      "s"
+    ],
+    [
+      0.000594,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.075263,
+      "e"
+    ],
+    [
+      0.00057,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175169,
+      "r"
+    ],
+    [
+      0.001029,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.138204,
+      "\r"
+    ],
+    [
+      0.000478,
+      "\u001b[?25l\u001b[31msearch hit BOTTOM, continuing at TOP\u001b[m\r\u001b[97m\u001b[41mE486: Pattern not found: user\u001b[m\u001b[43;30H\u001b[K"
+    ],
+    [
+      0.003029,
+      "\u001b[21;146Hinit\u001b[26Cee\u001b[22;1Hd\u001b[42;76Hinit\u001b[43;159H73,146\u001b[8C13%\u001b[21;146H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.878713,
+      "\u001b[?25l\u001b[43;1H\u001b[K\u001b[43;1H/"
+    ],
+    [
+      0.000734,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.127601,
+      "t"
+    ],
+    [
+      0.001298,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.173867,
+      "e"
+    ],
+    [
+      0.000673,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.100316,
+      "r"
+    ],
+    [
+      0.000741,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.124538,
+      "r"
+    ],
+    [
+      0.000457,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.207346,
+      "a"
+    ],
+    [
+      0.002872,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.186906,
+      "f"
+    ],
+    [
+      0.00441,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.11005,
+      "o\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.08982,
+      "\u001b[34m^I\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.627052,
+      "\u001b[?25l\u001b[m\u001b[43;9H\u001b[K"
+    ],
+    [
+      0.000655,
+      "\u001b[43;9H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.195872,
+      "r"
+    ],
+    [
+      0.000855,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.175545,
+      "m\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.220714,
+      "\r"
+    ],
+    [
+      0.000412,
+      "\u001b[?25l\u001b[31msearch hit BOTTOM, continuing at TOP\u001b[m\r\u001b[97m\u001b[41mE486: Pattern not found: terraform\u001b[m\u001b[43;35H\u001b[K"
+    ],
+    [
+      0.002918,
+      "\u001b[43;159H73,146\u001b[8C13%\u001b[21;146H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.836439,
+      "\u001b[?25l\u001b[43;1H\u001b[K\u001b[43;1H:"
+    ],
+    [
+      8.7e-05,
+      "\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.097519,
+      "q"
+    ],
+    [
+      0.007772,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.403008,
+      "\r"
+    ],
+    [
+      0.000117,
+      "\u001b[?25l"
+    ],
+    [
+      0.10342,
+      "\u001b[43;1H\u001b[K\u001b[43;1H\u001b[?2004l\u001b[?1l\u001b>"
+    ],
+    [
+      0.006444,
+      "\u001b[?12l\u001b[?25h\u001b[?1049l\u001b]0;ec2-user@ip-172-31-10-212:~\u0007[ec2-user@ip-172-31-10-212 ~]$ "
+    ],
+    [
+      0.460227,
+      "sudo vim /var/log/messages "
+    ],
+    [
+      0.359068,
+      "\b\u001b[K"
+    ],
+    [
+      0.51557,
+      "\b\u001b[K"
+    ],
+    [
+      0.017644,
+      "\b\u001b[K"
+    ],
+    [
+      0.023828,
+      "\b\u001b[K"
+    ],
+    [
+      0.03095,
+      "\b\u001b[K"
+    ],
+    [
+      0.0302,
+      "\b\u001b[K"
+    ],
+    [
+      0.153954,
+      "\b\u001b[K"
+    ],
+    [
+      0.199774,
+      "\b\u001b[K"
+    ],
+    [
+      0.17476,
+      "\b\u001b[K"
+    ],
+    [
+      0.366429,
+      "\u0007"
+    ],
+    [
+      0.771983,
+      "\r\naudit/                 cloud-init.log         dmesg                  mail/                  ntpstats/              tallylog               \r\nboot.log               cloud-init-output.log  dracut.log             maillog                secure                 wtmp                   \r\nbtmp                   cron                   lastlog                messages               spooler                yum.log                \r\n[ec2-user@ip-172-31-10-212 ~]$ sudo vim /var/log/"
+    ],
+    [
+      3.033873,
+      "b"
+    ],
+    [
+      0.184278,
+      "o"
+    ],
+    [
+      0.22364,
+      "ot.log "
+    ],
+    [
+      0.745563,
+      "\r\n"
+    ],
+    [
+      0.034258,
+      "\u001b[?1049h\u001b[?1h\u001b=\u001b[?2004h"
+    ],
+    [
+      0.003542,
+      "\u001b[2;1H▽\u001b[6n\u001b[2;1H  \u001b[1;1H\u001b]11;?\u0007"
+    ],
+    [
+      0.003371,
+      "\u001b[1;43r\u001b[?12;25h\u001b[?12l\u001b[?25h\u001b[27m\u001b[m\u001b[H\u001b[2J\u001b[?25l\u001b[43;1H\"/var/log/boot.log\" 0L, 0C\u001b[>c"
+    ],
+    [
+      0.003267,
+      "\u001b[2;1H\u001b[94m~                                                                                                                                                                               \u001b[3;1H~                                                                                                                                                                               \u001b[4;1H~                                                                                                                                                                               \u001b[5;1H~                                                                                                                                                                               \u001b[6;1H~                                                                                                                                                                               \u001b[7;1H~                                                                                                      "
+    ],
+    [
+      6.2e-05,
+      "                                                                         \u001b[8;1H~                                                                                                                                                                               \u001b[9;1H~                                                                                                                                                                               \u001b[10;1H~                                                                                                                                                                               \u001b[11;1H~                                                                                                                                                                               \u001b[12;1H~                                                                                                                                                                               \u001b[13;1H~                              "
+    ],
+    [
+      5.5e-05,
+      "                                                                                                                                                 \u001b[14;1H~                                                                                                                                                                               \u001b[15;1H~                                                                                                                                                                               \u001b[16;1H~                                                                                                                                                                               \u001b[17;1H~                                                                                                                                                                               \u001b[18;1H~                                                                                                                                           "
+    ],
+    [
+      3.9e-05,
+      "                                    \u001b[19;1H~                                                                                                                                                                               \u001b[20;1H~                                                                                                                                                                               \u001b[21;1H~                                                                                                                                                                               \u001b[22;1H~                                                                                                                                                                               \u001b[23;1H~                                                                                                                                                                               \u001b[24;1H~                                                               "
+    ],
+    [
+      0.022212,
+      "                                                                                                                \u001b[25;1H~                                                                                                                                                                               \u001b[26;1H~                                                                                                                                                                               \u001b[27;1H~                                                                                                                                                                               \u001b[28;1H~                                                                                                                                                                               \u001b[29;1H~                                                                                                                                                                            "
+    ],
+    [
+      6e-05,
+      "   \u001b[30;1H~                                                                                                                                                                               \u001b[31;1H~                                                                                                                                                                               \u001b[32;1H~                                                                                                                                                                               \u001b[33;1H~                                                                                                                                                                               \u001b[34;1H~                                                                                                                                                                               \u001b[35;1H~                                                                                                  "
+    ],
+    [
+      3.1e-05,
+      "                                                                             \u001b[36;1H~                                                                                                                                                                               \u001b[37;1H~                                                                                                                                                                               \u001b[38;1H~                                                                                                                                                                               \u001b[39;1H~                                                                                                                                                                               \u001b[40;1H~                                                                                                                                                                               \u001b[41;1H~                        "
+    ],
+    [
+      2.1e-05,
+      "                                                                                                                                                       \u001b[42;1H~                                                                                                                                                                               \u001b[m\u001b[43;159H0,0-1\u001b[9CAll\u001b[1;1H\u001b[?12l\u001b[?25h"
+    ],
+    [
+      1.141299,
+      "\u001b[?25l\u001b[43;1H\u001b[K\u001b[43;1H:\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.094788,
+      "q"
+    ],
+    [
+      0.001154,
+      "\u001b[?25l\u001b[?12l\u001b[?25h"
+    ],
+    [
+      0.176854,
+      "\r"
+    ],
+    [
+      0.012012,
+      "\u001b[?25l"
+    ],
+    [
+      0.087153,
+      "\u001b[43;1H\u001b[K\u001b[43;1H\u001b[?2004l\u001b[?1l\u001b>"
+    ],
+    [
+      8.5e-05,
+      "\u001b[?12l\u001b[?25h\u001b[?1049l"
+    ],
+    [
+      0.000629,
+      "\u001b]0;ec2-user@ip-172-31-10-212:~\u0007[ec2-user@ip-172-31-10-212 ~]$ "
+    ],
+    [
+      0.386692,
+      "sudo vim /var/log/boot.log "
+    ],
+    [
+      0.365164,
+      "\b\u001b[K"
+    ],
+    [
+      0.468838,
+      "\b\u001b[K"
+    ],
+    [
+      0.024859,
+      "\b\u001b[K"
+    ],
+    [
+      0.034283,
+      "\b\u001b[K"
+    ],
+    [
+      0.02687,
+      "\b\u001b[K"
+    ],
+    [
+      0.030017,
+      "\b\u001b[K"
+    ],
+    [
+      0.138036,
+      "\b\u001b[K"
+    ],
+    [
+      0.186159,
+      "\b\u001b[K"
+    ],
+    [
+      0.177958,
+      "\b\u001b[K"
+    ],
+    [
+      0.193303,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.265041,
+      "\u001b[1P"
+    ],
+    [
+      0.508605,
+      "\u001b[1P"
+    ],
+    [
+      0.01981,
+      "\u001b[1P"
+    ],
+    [
+      0.02971,
+      "\u001b[1P"
+    ],
+    [
+      0.034795,
+      "\u001b[1P"
+    ],
+    [
+      0.028014,
+      "\u001b[1P"
+    ],
+    [
+      0.02718,
+      "\u001b[1P"
+    ],
+    [
+      0.02882,
+      "\u001b[1P /var/log/\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.177259,
+      "\u001b[1P/var/log/\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.604641,
+      "c/var/log/\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.168737,
+      "d/var/log/\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.186763,
+      " /var/log/\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.156095,
+      "\r\n\u001b]0;ec2-user@ip-172-31-10-212:/var/log\u0007[ec2-user@ip-172-31-10-212 log]$ "
+    ],
+    [
+      0.640328,
+      "g"
+    ],
+    [
+      0.263712,
+      "r"
+    ],
+    [
+      0.143959,
+      "r"
+    ],
+    [
+      0.61318,
+      "\b\u001b[K"
+    ],
+    [
+      0.068681,
+      "e"
+    ],
+    [
+      0.108151,
+      "p"
+    ],
+    [
+      0.235589,
+      " "
+    ],
+    [
+      0.449161,
+      "-"
+    ],
+    [
+      0.199955,
+      "r"
+    ],
+    [
+      0.13782,
+      "n"
+    ],
+    [
+      0.250057,
+      "i"
+    ],
+    [
+      0.237505,
+      " "
+    ],
+    [
+      3.028441,
+      "\""
+    ],
+    [
+      0.364284,
+      "a"
+    ],
+    [
+      0.126206,
+      "p"
+    ],
+    [
+      0.268521,
+      "t"
+    ],
+    [
+      0.266594,
+      "\""
+    ],
+    [
+      0.21404,
+      "\r\n"
+    ],
+    [
+      0.001165,
+      "grep: "
+    ],
+    [
+      0.001475,
+      "boot.log: Permission denied"
+    ],
+    [
+      0.000415,
+      "\r\ngrep: "
+    ],
+    [
+      0.000369,
+      "maillog: Permission denied"
+    ],
+    [
+      0.000788,
+      "\r\ngrep: tallylog: Permission denied"
+    ],
+    [
+      0.019359,
+      "\r\ngrep: audit: Permission denied\r\ngrep: mail/statistics: Permission denied\r\ngrep: cron: Permission denied\r\ngrep: spooler: Permission denied\r\ngrep: messages: Permission denied\r\ngrep: secure: Permission denied\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K16\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['ifconfig', '-a'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n"
+    ],
+    [
+      0.001663,
+      "\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K17\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['netstat', '-rn'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K258\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['growpart', '--help'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K265\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['growpart', '--dry-run', '/dev/xvda', '1'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K273\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['running-in-container'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[3"
+    ],
+    [
+      5.2e-05,
+      "2m\u001b[K274\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['lxc-is-container'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n"
+    ],
+    [
+      0.001316,
+      "\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K301\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2438]: util.py[DEBUG]: Running command ('resize2fs', '/dev/xvda1') with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K303\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['usermod', '-L', 'ec2-user'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K309\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['ssh-keygen', '-t', 'rsa', '-N', '', '-f', '/etc/ssh/ssh_host_rsa_key'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=False)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K310\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:43 cloud-init[2401]: util.py[DEBUG]: Running command ['ssh-keygen', '-t', 'dsa', '-N', '', '-f', '/etc/ssh/ssh_host_dsa_key'] with allowed return codes ["
+    ],
+    [
+      2.6e-05,
+      "0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=False)\r\n"
+    ],
+    [
+      0.000772,
+      "\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K311\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:43 cloud-init[2401]: util.py[DEBUG]: Running command ['ssh-keygen', '-t', 'ecdsa', '-N', '', '-f', '/etc/ssh/ssh_host_ecdsa_key'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=False)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K363\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:43 cloud-init[2462]: util.py[DEBUG]: Running command ['service', 'sshd', 'status'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K379\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:43 cloud-init[2462]: util.py[DEBUG]: Running command ['yum', '-t', '-y', '--exclude=kernel', '--exclude=nvidia*', '--exclude=cudatoolkit', '--security', '--sec-severity=critical', '--sec-severity=important', 'upgrade'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=False)\r\n\u001b[35m\u001b[Kcloud-init.log\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[K\u001b[32m\u001b[K422\u001b[m\u001b[K\u001b[36m\u001b[K:\u001b[m\u001b[KJul 24 14:14:46 cloud-i"
+    ],
+    [
+      3.2e-05,
+      "nit[2588]: util.py[DEBUG]: Running command ['/usr/libexec/cloud-init/write-ssh-key-fingerprints', '', 'ssh-dss'] with allowed return codes [0] (shell=False, c\u001b[01;31m\u001b[Kapt\u001b[m\u001b[Kure=True)\r\ngrep: btmp: Permission denied\r\ngrep: yum.log: Permission denied\r\n\u001b]0;ec2-user@ip-172-31-10-212:/var/log\u0007[ec2-user@ip-172-31-10-212 log]$ "
+    ],
+    [
+      6.725821,
+      "grep -rni \"apt\""
+    ],
+    [
+      0.414672,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.270689,
+      "\u001b[1@s"
+    ],
+    [
+      0.133035,
+      "\u001b[1@u"
+    ],
+    [
+      0.13074,
+      "\u001b[1@d"
+    ],
+    [
+      0.13785,
+      "\u001b[1@o"
+    ],
+    [
+      0.125072,
+      "\u001b[1@ "
+    ],
+    [
+      0.132764,
+      "\r\n"
+    ],
+    [
+      0.00922,
+      "secure:134:Jul 24 16:52:09 ip-172-31-10-212 sudo: ec2-user : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/grep -rni apt\r\n"
+    ],
+    [
+      0.002214,
+      "cloud-init.log:16:Jul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['ifconfig', '-a'] with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init.log:17:Jul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['netstat', '-rn'] with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init.log:258:Jul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['growpart', '--help'] with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init.log:265:Jul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['growpart', '--dry-run', '/dev/xvda', '1'] with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init.log:273:Jul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['running-in-container'] with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init.log:274:Jul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['lxc-is-container'] with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init."
+    ],
+    [
+      9.8e-05,
+      "log:301:Jul 24 14:14:42 cloud-init[2438]: util.py[DEBUG]: Running command ('resize2fs', '/dev/xvda1') with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init.log:303:Jul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['usermod', '-L', 'ec2-user'] with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init.log:309:Jul 24 14:14:42 cloud-init[2401]: util.py[DEBUG]: Running command ['ssh-keygen', '-t', 'rsa', '-N', '', '-f', '/etc/ssh/ssh_host_rsa_key'] with allowed return codes [0] (shell=False, capture=False)\r\ncloud-init.log:310:Jul 24 14:14:43 cloud-init[2401]: util.py[DEBUG]: Running command ['ssh-keygen', '-t', 'dsa', '-N', '', '-f', '/etc/ssh/ssh_host_dsa_key'] with allowed return codes [0] (shell=False, capture=False)\r\ncloud-init.log:311:Jul 24 14:14:43 cloud-init[2401]: util.py[DEBUG]: Running command ['ssh-keygen', '-t', 'ecdsa', '-N', '', '-f', '/etc/ssh/ssh_host_ecdsa_key'] with allowed return codes [0] (shell=False, capture=False)\r\n"
+    ],
+    [
+      0.015265,
+      "cloud-init.log:363:Jul 24 14:14:43 cloud-init[2462]: util.py[DEBUG]: Running command ['service', 'sshd', 'status'] with allowed return codes [0] (shell=False, capture=True)\r\ncloud-init.log:379:Jul 24 14:14:43 cloud-init[2462]: util.py[DEBUG]: Running command ['yum', '-t', '-y', '--exclude=kernel', '--exclude=nvidia*', '--exclude=cudatoolkit', '--security', '--sec-severity=critical', '--sec-severity=important', 'upgrade'] with allowed return codes [0] (shell=False, capture=False)\r\ncloud-init.log:422:Jul 24 14:14:46 cloud-init[2588]: util.py[DEBUG]: Running command ['/usr/libexec/cloud-init/write-ssh-key-fingerprints', '', 'ssh-dss'] with allowed return codes [0] (shell=False, capture=True)\r\n\u001b]0;ec2-user@ip-172-31-10-212:/var/log\u0007[ec2-user@ip-172-31-10-212 log]$ "
+    ],
+    [
+      4.126973,
+      "sudo grep -rni \"apt\""
+    ],
+    [
+      0.437821,
+      "\b"
+    ],
+    [
+      0.696544,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.193928,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.173156,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      1.235018,
+      "u\"\b"
+    ],
+    [
+      0.192719,
+      "n\"\b"
+    ],
+    [
+      0.958605,
+      "z\"\b"
+    ],
+    [
+      0.166654,
+      "i\"\b"
+    ],
+    [
+      0.271039,
+      "p\"\b"
+    ],
+    [
+      0.259895,
+      "\r\n"
+    ],
+    [
+      0.006757,
+      "secure:135:Jul 24 16:52:18 ip-172-31-10-212 sudo: ec2-user : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/grep -rni unzip\r\n"
+    ],
+    [
+      0.000783,
+      "\u001b]0;ec2-user@ip-172-31-10-212:/var/log\u0007[ec2-user@ip-172-31-10-212 log]$ "
+    ],
+    [
+      0.8081,
+      "sudo grep -rni \"unzip\""
+    ],
+    [
+      0.380805,
+      "\b"
+    ],
+    [
+      0.249072,
+      "\b"
+    ],
+    [
+      0.450251,
+      "\u001b[C"
+    ],
+    [
+      0.391951,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.18576,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.146191,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.20043,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.163269,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.153012,
+      "t\"\b"
+    ],
+    [
+      0.06779,
+      "e\"\b"
+    ],
+    [
+      0.158148,
+      "r\"\b"
+    ],
+    [
+      0.14952,
+      "r\"\b"
+    ],
+    [
+      0.139518,
+      "a\"\b"
+    ],
+    [
+      0.162768,
+      "f\"\b"
+    ],
+    [
+      0.175975,
+      "o\"\b"
+    ],
+    [
+      0.169684,
+      "r\"\b"
+    ],
+    [
+      0.119481,
+      "m\"\b"
+    ],
+    [
+      0.234607,
+      "\r\n"
+    ],
+    [
+      0.006761,
+      "secure:136:Jul 24 16:52:23 ip-172-31-10-212 sudo: ec2-user : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/grep -rni terraform\r\n"
+    ],
+    [
+      0.000854,
+      "\u001b]0;ec2-user@ip-172-31-10-212:/var/log\u0007[ec2-user@ip-172-31-10-212 log]$ "
+    ],
+    [
+      0.96314,
+      "sudo grep -rni \"terraform\""
+    ],
+    [
+      0.361387,
+      "\b"
+    ],
+    [
+      0.226157,
+      "\b"
+    ],
+    [
+      0.425199,
+      "\u001b[C"
+    ],
+    [
+      0.409233,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.502698,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.025592,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.031345,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.030618,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.027208,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.030012,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.029602,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.108457,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.596628,
+      "u\"\b"
+    ],
+    [
+      0.288979,
+      "s\"\b"
+    ],
+    [
+      0.091165,
+      "e\"\b"
+    ],
+    [
+      0.177908,
+      "r\"\b"
+    ],
+    [
+      0.374022,
+      "d\"\b"
+    ],
+    [
+      0.283031,
+      "t\"\b"
+    ],
+    [
+      0.23284,
+      "\b\u001b[1P\"\b"
+    ],
+    [
+      0.083631,
+      "a\"\b"
+    ],
+    [
+      0.172053,
+      "t\"\b"
+    ],
+    [
+      0.260928,
+      "\r\n"
+    ],
+    [
+      0.006636,
+      "secure:137:Jul 24 16:52:28 ip-172-31-10-212 sudo: ec2-user : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/grep -rni userdat\r\n"
+    ],
+    [
+      0.003,
+      "\u001b]0;ec2-user@ip-172-31-10-212:/var/log\u0007[ec2-user@ip-172-31-10-212 log]$ "
+    ],
+    [
+      0.861833,
+      "sudo grep -rni \"userdat\""
+    ],
+    [
+      0.26945,
+      "\b"
+    ],
+    [
+      0.3993,
+      "a\"\b"
+    ],
+    [
+      0.217086,
+      "\r\n"
+    ],
+    [
+      0.006154,
+      "secure:138:Jul 24 16:52:30 ip-172-31-10-212 sudo: ec2-user : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/bin/grep -rni userdata\r\n"
+    ],
+    [
+      0.000715,
+      "\u001b]0;ec2-user@ip-172-31-10-212:/var/log\u0007[ec2-user@ip-172-31-10-212 log]$ "
+    ],
+    [
+      0.309318,
+      "\r\n\u001b]0;ec2-user@ip-172-31-10-212:/var/log\u0007[ec2-user@ip-172-31-10-212 log]$ "
+    ],
+    [
+      7.228028,
+      "logout\r\n"
+    ],
+    [
+      0.000122,
+      "Connection to 52.214.20.187 closed.\r\r\n"
+    ],
+    [
+      0.001678,
+      "\u001b[1m\u001b[7m%\u001b[27m\u001b[1m\u001b[0m                                                                                                                                                                               \r \r"
+    ],
+    [
+      0.000302,
+      "\u001b]2;jboulanger@jbo-laptop: ~/Documents/PROJETS/terraform-formation/projet_2/terraform\u0007\u001b]1;..t_2/terraform\u0007"
+    ],
+    [
+      0.111473,
+      "\r\u001b[0m\u001b[27m\u001b[24m\u001b[J\r\n \u001b[39m\u001b[0m\u001b[49m\u001b[40m \u001b[93mjboulanger@jbo-laptop \u001b[44m\u001b[30m \u001b[30m~/Documents/PROJETS/terraform-formation/projet_2/terraform \u001b[43m\u001b[34m \u001b[30mmaster ✚ ? \u001b[49m\u001b[33m\u001b[39m \r\n>\u001b[K\u001b[151C\u001b[1A\u001b[39m\u001b[0m\u001b[49m\u001b[30m\u001b[39m\u001b[40m\u001b[38;5;46m \u001b[38;5;46m✓\u001b[39m \u001b[39m\u001b[38;5;244m\u001b[39m\u001b[48;5;244m\u001b[30m 10014 \u001b[39m\u001b[37m\u001b[39m\u001b[47m\u001b[30m 18:52:38 \u001b[39m\u001b[00m\u001b[1B\u001b[49m\u001b[174D\u001b[?1h\u001b="
+    ],
+    [
+      1.8e-05,
+      "\u001b[?2004h"
+    ],
+    [
+      113.72365,
+      "\u001b[?2004l\r\r\n"
+    ]
+  ]
+}
