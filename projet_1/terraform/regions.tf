@@ -1,12 +1,11 @@
-module "us-east-1" {
+module "eu-central-1" {
   source          = "./region"
-  region          = "us-east-1"
-  base_cidr_block = "${var.base_cidr_block}"
+  region          = "eu-central-1"
+  base_cidr_block = var.base_cidr_block
 }
 
-module "us-west-2" {
+module "eu-west-1" {
   source = "./region"
-  region = "us-west-2"
-
-  # base_cidr_block = "${var.base_cidr_block}"
+  region = "eu-west-1"
+  base_cidr_block = var.base_cidr_block
 }
