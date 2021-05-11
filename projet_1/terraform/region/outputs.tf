@@ -9,3 +9,8 @@ output "primary_subnet_id" {
 output "secondary_subnet_id" {
   value = module.secondary_subnet.subnet_id
 }
+
+output "azs" {
+  value = data.aws_availability_zones.all.names[*]
+}
+

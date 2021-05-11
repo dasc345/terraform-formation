@@ -1,7 +1,9 @@
-# AWS Networking Example
+# AWS Networking Example Projet 1
 
-This example creates AWS VPC resources, making a VPC in each of two regions and
-then two subnets in each VPC in two different availability zones.
+Creation de deux AWS VPC dans deux regions différentes
+Creation de deux subnets dans chaque région dans deux AZ différentes
+
+
 
 This example also demonstrates the use of modules to create several copies of
 the same resource set with different arguments. The child modules in this
