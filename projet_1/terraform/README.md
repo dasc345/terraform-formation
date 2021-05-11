@@ -1,7 +1,7 @@
 # AWS Networking Example Projet 1
 
-Creation de deux AWS VPC dans deux regions différentes
-Creation de deux subnets dans chaque région dans deux AZ différentes
+Creation de deux AWS VPC dans deux regions différentes.
+Creation de deux subnets dans chaque région dans deux AZ différentes.
 
 
 
