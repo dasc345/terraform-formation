@@ -14,10 +14,30 @@ Cette commande permet de configurer les backends, de récupérer le remote state
 et de télécharger les modules.
 
 ```
-cd projet_1/terraform
-terraform init github.com/Oxalide-Team-2/terraform-provider-aws/examples/networking
+PS C:\Data\TERRAFORM\terraform-formation\projet_1\terraform> terraform init
+Initializing modules...
 
-terraform plan
+Initializing the backend...
+
+Initializing provider plugins...
+- Reusing previous version of hashicorp/aws from the dependency lock file
+- Installing hashicorp/aws v3.39.0...
+- Installed hashicorp/aws v3.39.0 (self-signed, key ID 34365D9472D7468F)
+
+Partner and community providers are signed by their developers.
+If you'd like to know more about provider signing, you can read about it here:
+https://www.terraform.io/docs/plugins/signing.html
+
+Terraform has been successfully initialized!
+
+You may now begin working with Terraform. Try running "terraform plan" to see
+any changes that are required for your infrastructure. All Terraform commands
+should now work.
+
+If you ever set or change modules or backend configuration for Terraform,
+rerun this command to reinitialize your working directory. If you forget, other
+commands will detect it and remind you to do so if necessary.
+
 # what happen ?
 ```
 ## Question 2:
