@@ -1,6 +1,7 @@
-# AWS Networking Example Projet 1
+# AWS Networking 
+# ACCOUNT AXA 
 
-Creation de deux AWS VPC dans deux regions différentes.
+Creation de deux AWS VPC's dans deux regions différentes.
 Creation de deux subnets dans chaque région dans deux AZ différentes.
 
 
