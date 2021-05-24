@@ -3,4 +3,4 @@ variable "base_cidr_block" {
 }
 
 
-variable "azs" { }
+# variable "azs" { }
