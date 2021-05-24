@@ -4,3 +4,18 @@ variable "base_cidr_block" {
 
 
 # variable "azs" { }
+
+variable "entity_name" {
+  type = string
+  default = "XXX"
+}
+
+variable "owner_name" {
+  type = string
+  default = "dasc345"
+}
+
+variable "env" {
+  type = string
+  default = "TEST"
+}
