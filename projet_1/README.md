@@ -1,8 +1,13 @@
 # Projet 1
+## Création de deux VPC's + deux subnets par vpc's dans deux régions différentes connecté avec deux TGW's 
 
-L'objectif de cet exercice est de prendre en main les commandes cli de base de Terraform et de faire un tour d'horizon du provider AWS, des interpolations et des modules.
+L'objectif de cet exercice est de prendre en main 
 
-## Question 1:
+- les commandes cli de base de Terraform (INIT, PLAN , APPLY, DESROY)
+- Utilisation des modules 
+-  
+
+## TERRAFORM INIT:
 
 #### Terraform [init](https://www.terraform.io/docs/commands/init.html)
 
