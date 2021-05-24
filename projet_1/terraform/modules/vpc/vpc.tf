@@ -24,17 +24,17 @@
 # lookup(map, key, default)
 # 
 
-locals {
-  vpc_name = "${var.entity_name}_${var_env}_vpc"
-  igw_name = "${var.entity_name}_${var_env}_igw"
+provider "aws" {
+  region = var.region
 }
 
 resource "aws_vpc" "main" {
   # The interpolation cidrsubnet create subnet of base_cidr_block
   cidr_block = cidrsubnet(var.base_cidr_block, 4, lookup(var.region_numbers, var.region))
   tags = {
-      vpc_name = local.vpc_name
+      vpc_name = var.vpc_name
       owner = var.owner_name
+      env = var.env
   }
 
 }
@@ -42,7 +42,8 @@ resource "aws_vpc" "main" {
 resource "aws_internet_gateway" "main" {
   vpc_id = aws_vpc.main.id
   tags = {
-      vpc_igw = local.igw_name
+      igw_name = var.igw_name
       owner = var.owner_name
+            env = var.env
   }
 }
